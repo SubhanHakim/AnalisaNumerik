@@ -197,3 +197,9 @@ label {
 #btn-reset {
   display: none;
 }
+
+.manual {
+  font-size: 16px;
+  color: #d14d72;
+  text-decoration: underline;
+}
